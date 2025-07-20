@@ -1,0 +1,19 @@
+# requirements.txt
+
+# Core libraries
+torch>=2.0
+torchvision>=0.15
+timm>=0.9.2
+
+# Image processing
+pillow
+opencv-python
+scikit-image
+
+# Progress bar and utilities
+tqdm
+matplotlib
+numpy
+
+# Optional: For Colab compatibility and metadata handling
+pandas
